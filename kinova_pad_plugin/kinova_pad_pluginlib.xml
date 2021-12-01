@@ -1,0 +1,5 @@
+<library path="lib/libkinova_pad_pluginlib">
+    <class name="kinova_pad_plugin/KinovaArm" type="pad_plugins::PadPluginKinovaArm" base_class_type="pad_plugins::GenericPadPlugin">
+        <description>This is the Pad movement plugin for controlling the arm.</description>
+    </class>
+</library>
